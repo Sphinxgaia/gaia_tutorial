@@ -30,12 +30,11 @@ yum --enablerepo=elrepo-kernel install kernel-ml
 
 ## Update your GRUB
 
-Edit your grub and change line `GRUB_DEFAULT` into `GRUB_DEFAULT=0`
-
-Recreate Kernel configuration
+Edit your grub : /etc/default/grub and change line `GRUB_DEFAULT` into `GRUB_DEFAULT=0`
 
 ~~~bash
-grub2-mkconfig -o /boot/grub2/grub.cfg
+grub2-editenv list
+grub2-set-default 0
 ~~~
 
 Reboot to see change
