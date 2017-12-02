@@ -1,4 +1,5 @@
 # Vmware Guest Companion
+## Author : Jérôme Masson <sphinxgaia@jeromemasson.fr>
 
 ## Install VMware tool
 ~~~bash

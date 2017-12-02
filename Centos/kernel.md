@@ -1,4 +1,5 @@
 # Kernel Informations
+## Author : Jérôme Masson <sphinxgaia@jeromemasson.fr>
 
 ## Found your kernel version
 

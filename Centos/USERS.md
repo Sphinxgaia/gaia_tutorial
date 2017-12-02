@@ -1,4 +1,5 @@
 # User manipulation centos
+## Author : Jérôme Masson <sphinxgaia@jeromemasson.fr>
 
 ## Edit password
 

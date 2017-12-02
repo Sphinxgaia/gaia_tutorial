@@ -1,4 +1,5 @@
 # Manipulation package
+## Author : Jérôme Masson <sphinxgaia@jeromemasson.fr>
 
 ## YUM
 yum is command to install package
